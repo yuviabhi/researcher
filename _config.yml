@@ -1,0 +1,23 @@
+title: Abhisek Chowdhury
+url: "https://yuviabhi.github.io"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/yuviabhi"
+footer_text: "2018 &copy; Abhisek Chowdhury"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About Me"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "Abhisek_CV_September_2018.pdf"
+ - name: "Contact"
+   link: "contact"
