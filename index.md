@@ -85,7 +85,7 @@ Dept. – Institute Information Cell
 
 ---
 
-1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic” ICACNI 2017. (In Press)
+1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic” ICACNI 2017. [pdf](/paper/icacni2017.pdf)
 
 
 
@@ -137,21 +137,21 @@ EstateEncase.com<br /> B.Sc. Final Year Project, Midnapore College, Midnapore.<b
 ---
 
 #### Aug 2017 – Nov 2017
-Daily Tracker, Daily routine tracking system using smartphone tri-axial accelerometer<br />IIT Kharagpur, India, [ppt](https://goo.gl/bNejj3).
+Daily Tracker, Daily routine tracking system using smartphone tri-axial accelerometer<br />IIT Kharagpur, India, [[ppt]](https://goo.gl/bNejj3).
 
 #### July 2017 – Sept 2017
 GeoCloud, Spatial Data Science Lab, IIT Kharagpur, India.<br />Deployment of a small scale cloud setup using Mirantis Openstack 9.0 with 1 Fuel, 1 Controller, 2 Compute and 1 Storage node.<br />Supervisor – Prof. Soumya Kanti Ghosh, 
 Dept. of Computer Science and Engineering, IIT Kharagpur, India
 
 #### Aug 2016 – Nov 2016
-Detecting Traffic Congestion and Anomalous Road Events of Road Networks,<br />IIT Kharagpur, India, [github](https://github.com/cs60050/MacTrackz)
+Detecting Traffic Congestion and Anomalous Road Events of Road Networks,<br />IIT Kharagpur, India, [[github]](https://github.com/cs60050/MacTrackz)
 
 #### Mar 2016 
-Mobilytics, Mobility Summary and User Categorization based on Semantic Analysis of Human Movement Patterns , IIT Kharagpur, India, [ppt](https://goo.gl/5yQE8C).<br />Development using Python, Bootstrap framework, JS, JSP, Servlet, Google Map API, Android Materials Library, JSON.<br />Supervisor – Prof. Soumya Kanti Ghosh, 
+Mobilytics, Mobility Summary and User Categorization based on Semantic Analysis of Human Movement Patterns , IIT Kharagpur, India, [[ppt]](https://goo.gl/5yQE8C).<br />Development using Python, Bootstrap framework, JS, JSP, Servlet, Google Map API, Android Materials Library, JSON.<br />Supervisor – Prof. Soumya Kanti Ghosh, 
 Dept. of Computer Science and Engineering, IIT Kharagpur, India
 
 #### Jan 2016 – Feb 2016
-Android API for Visualization & Data Access from WMS<br />GIS Lab, IIT Kharagpur, India, [ppt](https://goo.gl/z1BR99).
+Android API for Visualization & Data Access from WMS<br />GIS Lab, IIT Kharagpur, India, [[ppt]](https://goo.gl/z1BR99).
 Idea – Assist android developers by providing a useful set of tools for easy data access & visualization of WMS in the target android application.<br />Supervisor – Prof. Soumya Kanti Ghosh, 
 Dept. of Computer Science and Engineering, IIT Kharagpur, India
 
