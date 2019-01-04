@@ -4,11 +4,14 @@ layout: default
 
 ## About Me
 ---
-<img class="profile-picture" src="abhisek.jpg" height="500px" style="float:left; margin-right:30px;">
+<img class="profile-picture" src="abhisek.jpg" height="1000px" style="float:left; margin-right:30px;">
 
 <br /><br />
 
-Hi!  I’m **Abhisek Chowdhury**  <br /> <br />A PhD Research Scholar at IIT Kharagpur under guidance of Prof. Partha Pratim Das & Prof. Ram Babu Roy. <br />
+### Hi!  I’m **Abhisek Chowdhury**  
+<br /> <br />
+A Ph.D. Research Scholar at IIT Kharagpur under guidance of Prof. Ram Babu Roy & Prof. Partha Pratim Das, IIT Kharagpur. 
+<br /> <br />
 I also work as a Project Officer (IT) at National Digital Library (NDL) , IIT Kharagpur .
 
 
