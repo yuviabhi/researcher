@@ -8,37 +8,44 @@ layout: default
 
 <br /><br />
 
-Hi!  I’m **Abhisek Chowdhury**  <br /> <br />A Project Officer (IT) at National Digital Library (NDL) , IIT Kharagpur.
+Hi!  I’m **Abhisek Chowdhury**  <br /> <br />A PhD Research Scholar at IIT Kharagpur under guidance of Prof. Partha Pratim Das & Prof. Ram Babu Roy. <br />
+I also work as a Project Officer (IT) at National Digital Library (NDL) , IIT Kharagpur .
 
 
 
 <br /><br /><br /><br />
 
+## Current Research Interest
+---
+Currently I am interested in the field of **'Healthcare Analytics'** by automatically detecting human activities and behavior for personalized preventive care.
 
+<br /><br />
 
-## Research Interest
+## Previous Research Interest
 
 ---
 
-I work in the field of **'Disaster Management specifically Flood using Social Media'** where analysing the Twitter texts is an important objective for sentiment analysis to filter out the real-world flood tweets using SVM and other classifiers and also location extraction from raw tweets using NLP technics is a real challenge since most of the tweets lacks the geo-tags in India. And finally identifying the flood affected regions in India (State of Bihar as a case study) from tweets with the help of other auxiliary data sets (eg. Satellite data, rainfall, water-bodies etc) using a probabilistic unsupervised model developed with Restricted Boltzmann Machines (RBMs).
+I worked in the field of **'Disaster Management specifically Flood using Social Media'** where analyzing the raw tweets was an important objective for classification of real-world flood and non-flood tweets using SVM and other classifiers and also location extraction from twitter text using NLP and Information retrieval mechanisms was a real challenge since most of the tweets lacked the geo-tags in India. And finally developed a novel probabilistic unsupervised model with Restricted Boltzmann Machines (RBMs) for identification of flood affected regions in India (State of Bihar as a case study) in real-time with the help of auxiliary data sets (eg. Satellite data, rainfall, water-bodies etc).
 
 
 
 ## Educational Qualifications 
 
 ---
+#### 2019 -- Present
+Ph.D.<br />Indian Institite of Technology Kharagpur, India - 721302<br />
 
 #### 2013–2015
-Master of Science (M.Sc.), Vidyasagar University (VU), Midnapore, West Bengal, India – 721102.<br />Subject– Computer Science<br />Marks – 82.70 %
+Master of Science (M.Sc.), Vidyasagar University (VU), Midnapore, West Bengal, India – 721102.<br />Subject– Computer Science<br />
 
 #### 2010–2013 
-Bachelor of Science (B.Sc.), Midnapore College, (Affl. to VU), Midnapore, West Bengal, India – 721101.<br />Subject– Computer Science (Hons)<br />Marks – 76.90 %
+Bachelor of Science (B.Sc.), Midnapore College, (Affl. to VU), Midnapore, West Bengal, India – 721101.<br />Subject– Computer Science (Hons)<br />
 
 #### 2010 
-Higher Secondary Examination (10+2), Board W.B.C.H.S.E., School – Vidyasagar Vidyapith, Midnapore, West Bengal, India – 721101.<br />Stream – Science (Eng., Beng., Phys., Chem., Math.)<br />Marks – 70.60 %
+Higher Secondary Examination (10+2), Board W.B.C.H.S.E., School – Vidyasagar Vidyapith, Midnapore, West Bengal, India – 721101.<br />Stream – Science (Eng., Beng., Phys., Chem., Math.)<br />
 
 #### 2008 
-Secondary (Madhyamik) Examination (10th Std.), Board W.B.B.S.E., School – Vidyasagar Vidyapith, Midnapore, West Bengal, India – 721101.<br />Subject– All (Add’l Biology)<br />Marks – 87.13 % 
+Secondary (Madhyamik) Examination (10th Std.), Board W.B.B.S.E., School – Vidyasagar Vidyapith, Midnapore, West Bengal, India – 721101.<br />Subject– All (Add’l Biology)<br />
 
 
 
@@ -78,7 +85,7 @@ Software Developer, Indian Institute of Technology Kharagpur, India.<br />Projec
 
 ---
 
-1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic” ICACNI 2017. [[pdf]](/paper/icacni2017.pdf)
+1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic” ICACNI 2017. [[pdf]](paper/icacni2017.pdf)
 
 
 
@@ -93,9 +100,9 @@ C, C++, JAVA, Python, PHP, Prolog, Unix Shell, 8085 µP
 Oracle, PostgreSQL, MySQL, MS SQL Server, SQLite DB, PostGIS
 
 #### Development
-JAVA Spring Framework, Android, ASP.NET, PHP, JSP, JAVA Swing Framework Bootstrap, Javascript, AJAX, JQuery, Angular JS, REST API, JSON, XML
+JAVA Spring Framework, Android, ASP.NET, PHP, JSP, JAVA Swing Framework, JAFA FX,  Bootstrap, Java script, AJAX, JQuery, Angular JS, REST API, JSON, XML
 
-#### Tools
+#### Tools and IDEs
 Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apache Tomcat, Git 
 
 
@@ -106,7 +113,8 @@ Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apac
 
 * Machine Learning 
 * Data Mining 
-* NLP 
+* Natural Language Processing
+* Information Retrieval
 * Cloud Computing
 * Complex Network 
 
@@ -183,18 +191,14 @@ Rabindranagar, Midnapore Town, Paschim Medinipur, West Bengal, India – 721101
 #### Contact 
 * Mobile – [+91-9434229961](tel:+91-9434229961) , [+91-9046109298](tel:+91-9434229961)
 * Email  – [abhisekchowdhury9@gmail.com](mailto:abhisekchowdhury9@gmail.com) , [abhisek.chowdhury@iitkgp.ac.in](mailto:abhisek.chowdhury@iitkgp.ac.in)
-* Date of Birth – 13th June, 1992 
-* Gender – Male
-* Nationality – Indian 
-* Religion – Hinduism
-* Caste – General
-
 
 
 ## References
 
 ---
 
+* Prof. Ram Babu Roy, RMSoEE, IIT Kharagpur
+  * rambabu@see.iitkgp.ac.in
 * Arindam Dasgupta , PhD Scholar, IIT Kharagpur 
   * adgkgp@gmail.com
 
