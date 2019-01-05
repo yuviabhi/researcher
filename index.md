@@ -36,19 +36,19 @@ I worked in the field of **'Disaster Management specifically Flood using Social 
 
 ---
 #### 2019 -- Present
-Ph.D.<br />Indian Institite of Technology Kharagpur, India - 721302<br />
+Ph.D.<br />Indian Institute of Technology Kharagpur, India – 721302<br />
 
 #### 2013–2015
-Master of Science (M.Sc.), Vidyasagar University (VU), Midnapore, West Bengal, India – 721102.<br />Subject– Computer Science<br />
+M.Sc. in Computer Science<br />Vidyasagar University, West Bengal, India – 721102<br />
 
 #### 2010–2013 
-Bachelor of Science (B.Sc.), Midnapore College, (Affl. to VU), Midnapore, West Bengal, India – 721101.<br />Subject– Computer Science (Hons)<br />
+B.Sc. in Computer Science <br/>Midnapore College, West Bengal, India – 721101.<br />
 
 #### 2010 
-Higher Secondary Examination (10+2), Board W.B.C.H.S.E., School – Vidyasagar Vidyapith, Midnapore, West Bengal, India – 721101.<br />Stream – Science (Eng., Beng., Phys., Chem., Math.)<br />
+Higher Secondary Examination (10+2)<br/>Board – W.B.C.H.S.E.<br />
 
 #### 2008 
-Secondary (Madhyamik) Examination (10th Std.), Board W.B.B.S.E., School – Vidyasagar Vidyapith, Midnapore, West Bengal, India – 721101.<br />Subject– All (Add’l Biology)<br />
+Secondary (Madhyamik) Examination (10th Std.)<br/>Board W.B.B.S.E.<br />
 
 
 
@@ -56,16 +56,16 @@ Secondary (Madhyamik) Examination (10th Std.), Board W.B.B.S.E., School – Vidy
 
 ---
 
-| Year | Award          | Description                                                  |
-| ---- | -------------- | ------------------------------------------------------------ |
-| 2018 | **UGC NET**    | Qualified **UGC NET 2018 (July)** exam for Assistant Professorship. |
-| 2018 | **GATE**       | Qualified **GATE 2018** exam in CS with score 465 and AIR 5444. |
-| 2017 | **WB SET**     | Qualified **West Bengal SET 2017** exam securing 69.7 % marks. |
-| 2016 | **IBM Day**    | Member of the Mobilitics group ranking 3rd on **IBM Day 2016** competition in Dept. of Computer Science & Engineering, IIT Kharagpur, India. |
-| 2016 | **INSPIRE**    | Received **INSPIRE Fellowship** from DST, India to pursue Ph.D. |
-| 2015 | **Gold Medal** | **Topper (Gold Medalist)** in M.Sc. Computer Science from Vidyasagar University. |
-| 2013 | **Gold Medal** | **Topper (Gold Medalist)** in B.Sc. Computer Science from Vidyasagar University. |
-| 2008 | **Madhyamik**  | Scored **100 out of 100** in Mathematics in Madhyamik Examination. |
+| Year | Awards          | Description                                                  |
+| ---- | --------------- | ------------------------------------------------------------ |
+| 2018 | **UGC NET**     | Qualified **UGC NET 2018 (July)** exam for Assistant Professorship. |
+| 2018 | **GATE**        | Qualified **GATE 2018** exam in CS with score 465 and AIR 5444. |
+| 2017 | **WB SET**      | Qualified **West Bengal SET 2017** exam securing 69.7 % marks. |
+| 2016 | **IBM Day**     | Member of the Mobilitics group ranking 3rd on **IBM Day 2016** competition in Dept. of Computer Science & Engineering, IIT Kharagpur, India. |
+| 2016 | **DST INSPIRE** | Received **INSPIRE Fellowship** from DST, India to pursue Ph.D. |
+| 2015 | **Gold Medal**  | **Topper (Gold Medalist)** in M.Sc. Computer Science from Vidyasagar University. |
+| 2013 | **Gold Medal**  | **Topper (Gold Medalist)** in B.Sc. Computer Science from Vidyasagar University. |
+| 2008 | **Madhyamik**   | Scored **100 out of 100** in Mathematics in Madhyamik Examination. |
 
 
 
@@ -88,7 +88,7 @@ Software Developer, Indian Institute of Technology Kharagpur, India.<br />Projec
 
 ---
 
-1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic” ICACNI 2017. [[pdf]](paper/icacni2017.pdf)
+1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic”, **ICACNI 2017**. [[pdf]](paper/icacni2017.pdf)
 
 
 
@@ -103,7 +103,7 @@ C, C++, JAVA, Python, PHP, Prolog, Unix Shell, 8085 µP
 Oracle, PostgreSQL, MySQL, MS SQL Server, SQLite DB, PostGIS
 
 #### Development
-JAVA Spring Framework, Android, ASP.NET, PHP, JSP, JAVA Swing Framework, JAFA FX,  Bootstrap, Java script, AJAX, JQuery, Angular JS, REST API, JSON, XML
+JAVA Spring, Android, ASP.NET, PHP, JSP, JAVA Swing, JAFA FX, Bootstrap, JavaScript, AJAX, JQuery, Angular JS, REST API, JSON, XML
 
 #### Tools and IDEs
 Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apache Tomcat, Git 
@@ -146,8 +146,7 @@ EstateEncase.com<br />B.Sc. Final Year Project, Midnapore College, Midnapore.<br
 Daily Tracker, Daily routine tracking system using smartphone tri-axial accelerometer<br />IIT Kharagpur, India, [[ppt]](https://goo.gl/bNejj3).
 
 #### July 2017 – Sept 2017
-GeoCloud, Spatial Data Science Lab, IIT Kharagpur, India.<br />Deployment of a small scale cloud setup using Mirantis Openstack 9.0 with 1 Fuel, 1 Controller, 2 Compute and 1 Storage node.<br />Supervisor – Prof. Soumya Kanti Ghosh, 
-Dept. of Computer Science and Engineering, IIT Kharagpur, India
+GeoCloud, Spatial Data Science Lab, IIT Kharagpur, India.<br />Deployment of a small scale cloud setup using Mirantis Openstack 9.0 with 1 Fuel, 1 Controller, 2 Compute and 1 Storage node.<br />Supervisor – Prof. Soumya Kanti Ghosh, Dept. of Computer Science and Engineering, IIT Kharagpur, India
 
 #### Aug 2016 – Nov 2016
 Detecting Traffic Congestion and Anomalous Road Events of Road Networks,<br />IIT Kharagpur, India, [[github]](https://github.com/cs60050/MacTrackz)
@@ -156,8 +155,7 @@ Detecting Traffic Congestion and Anomalous Road Events of Road Networks,<br />II
 Mobilytics, Mobility Summary and User Categorization based on Semantic Analysis of Human Movement Patterns , IIT Kharagpur, India, [[ppt]](https://goo.gl/5yQE8C).<br />Development using Python, Bootstrap framework, JS, JSP, Servlet, Google Map API, Android Materials Library, JSON.<br />Supervisor – Prof. Soumya Kanti Ghosh, Dept. of Computer Science and Engineering, IIT Kharagpur, India
 
 #### Jan 2016 – Feb 2016
-Android API for Visualization & Data Access from WMS<br />GIS Lab, IIT Kharagpur, India, [[ppt]](https://goo.gl/z1BR99).
-Motivation – To assist android developers by providing a useful set of tools for easy data access & visualization of WMS in the target android application.<br />Supervisor – Prof. Soumya Kanti Ghosh, Dept. of Computer Science and Engineering, IIT Kharagpur, India
+Android API for Visualization & Data Access from WMS<br />GIS Lab, IIT Kharagpur, India, [[ppt]](https://goo.gl/z1BR99).<br />Motivation – To assist android developers by providing a useful set of tools for easy data access & visualization of WMS in the target android application.<br />Supervisor – Prof. Soumya Kanti Ghosh, Dept. of Computer Science and Engineering, IIT Kharagpur, India
 
 #### Dec 2015 
 Feedback System for IIT Kharagpur Website<br />Institute Information Cell, IIT Kharagpur, India.<br />Developed using JSP, Servlet, CSS, JS, JQuery, AJAX, PostgreSQL.<br />Supervisor – Prof. Soumya Kanti Ghosh & Prof. Pralay Mitra, Dept. of Computer Science and Engineering, IIT Kharagpur, India
@@ -182,18 +180,6 @@ Feedback System for IIT Kharagpur Website<br />Institute Information Cell, IIT K
 * Video Games
 * Photography 
 
-
-
-## Personal Details 
-
----
-
-#### Address 
-Rabindranagar, Midnapore Town, Paschim Medinipur, West Bengal, India – 721101
-
-#### Contact 
-* Mobile – [+91-9434229961](tel:+91-9434229961) , [+91-9046109298](tel:+91-9434229961)
-* Email  – [abhisekchowdhury9@gmail.com](mailto:abhisekchowdhury9@gmail.com) , [abhisek.chowdhury@iitkgp.ac.in](mailto:abhisek.chowdhury@iitkgp.ac.in)
 
 
 ## References
