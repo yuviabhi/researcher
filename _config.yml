@@ -15,9 +15,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About Me"
+ - name: "Bio"
    link: "/researcher/"
  - name: "Resume"
-   link: "Abhisek_CV_September_2018.pdf"
+   link: "Abhisek_CV.pdf"
  - name: "Contact"
    link: "contact"
