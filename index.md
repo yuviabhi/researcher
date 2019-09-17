@@ -20,7 +20,7 @@ I also work as a Project Officer (IT) at National Digital Library (NDL) , IIT Kh
 
 ## Current Research Interest
 ---
-Currently I am interested in the field of **'Healthcare Analytics'** by automatically detecting human activities and behavior for personalized preventive care.
+Currently I am interested in the field of **'Healthcare Analytics'** by exploring the area of Smartphone Sensor based Human Behavioral Modeling for betterment of lifestyle.
 
 <br /><br />
 
@@ -28,7 +28,7 @@ Currently I am interested in the field of **'Healthcare Analytics'** by automati
 
 ---
 
-I worked in the field of **'Disaster Management specifically Flood using Social Media'** where analyzing the raw tweets was an important objective for classification of real-world flood and non-flood tweets using SVM and other classifiers and also location extraction from twitter text using NLP and Information retrieval mechanisms was a real challenge since most of the tweets lacked the geo-tags in India. And finally developed a novel probabilistic unsupervised model with Restricted Boltzmann Machines (RBMs) for identification of flood affected regions in India (State of Bihar as a case study) in real-time with the help of auxiliary data sets (eg. Satellite data, rainfall, water-bodies etc).
+I worked in the field of **'Disaster Management specifically Flood using Social Media'** where analyzing the raw tweets was an important objective for classification of real-world flood and non-flood tweets using machine learning classifiers and also location extraction from twitter text using NLP and Information retrieval tools was a real challenge since most of the tweets lacked the geo-tags in India. And we finally developed a novel probabilistic unsupervised model with Restricted Boltzmann Machines (RBMs) for identification of flood affected regions in India (State of Bihar as a case study) in real-time with the help of auxiliary data sets (eg. Satellite data, rainfall, water-bodies etc).
 
 
 
@@ -58,7 +58,9 @@ Secondary (Madhyamik) Examination (10th Std.)<br/>Board W.B.B.S.E.<br />
 
 | Year | Awards          | Description                                                  |
 | ---- | --------------- | ------------------------------------------------------------ |
-| 2018 | **UGC NET**     | Qualified **UGC NET 2018 (July)** exam for Assistant Professorship. |
+| 2019 | **UGC NET**     | Qualified **UGC NET 2019 (June)** exam in Computer Science for JRF and Assistant Professorship. |
+| 2018 | **UGC NET**     | Qualified **UGC NET 2018 (December)** exam in Computer Science for Assistant Professorship. |
+| 2018 | **UGC NET**     | Qualified **UGC NET 2018 (July)** exam in Computer Science for Assistant Professorship. |
 | 2018 | **GATE**        | Qualified **GATE 2018** exam in CS with score 465 and AIR 5444. |
 | 2017 | **WB SET**      | Qualified **West Bengal SET 2017** exam securing 69.7 % marks. |
 | 2016 | **IBM Day**     | Member of the Mobilitics group ranking 3rd on **IBM Day 2016** competition in Dept. of Computer Science & Engineering, IIT Kharagpur, India. |
@@ -87,8 +89,9 @@ Software Developer, Indian Institute of Technology Kharagpur, India.<br />Projec
 ## Publications
 
 ---
+1. **Abhisek Chowdhury**. “FRIDZ: A Framework for Real-time Identification of Disaster Zones”, **PReMI 2019**. [Accepted] [[DOI:  10.35543/osf.io/wq7c9]](https://doi.org/10.35543/osf.io/wq7c9) [[pdf]](paper/PREMI_19_IndiArxiv.pdf)
 
-1. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic”, **ICACNI 2017**. [[pdf]](paper/icacni2017.pdf)
+2. Shreya Ghosh, **Abhisek Chowdhury**, and Soumya K. Ghosh. “A Machine Learning Approach to Find the Optimal Routes through Analysis of GPS Traces of Mobile City Traffic”, **ICACNI 2017**. [[pdf]](paper/icacni2017.pdf)
 
 
 
@@ -118,6 +121,7 @@ Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apac
 * Data Mining 
 * Natural Language Processing
 * Information Retrieval
+* Big Data
 * Cloud Computing
 * Complex Network 
 
@@ -188,6 +192,8 @@ Feedback System for IIT Kharagpur Website<br />Institute Information Cell, IIT K
 
 * Prof. Ram Babu Roy, RMSoEE, IIT Kharagpur
   * rambabu@see.iitkgp.ac.in
-* Arindam Dasgupta , PhD Scholar, IIT Kharagpur 
+* Prof. Partha Pratim Das, Dept. of CSE, IIT Kharagpur
+  * ppd@cse.iitkgp.ac.in
+* Mr. Arindam Dasgupta , PhD Scholar, ATDC, IIT Kharagpur 
   * adgkgp@gmail.com
 
