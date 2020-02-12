@@ -8,13 +8,13 @@ is_contact: true
 
 ### We have developed an android app "LIFE@IITKGP" to collect behavioral information.
 
-1. Concent Form: [Google Form](https://forms.gle/cPj8ecVk5rVjvb4SA)
+1. Concent Form: [Fill up](https://forms.gle/cPj8ecVk5rVjvb4SA)
 2. Download APP: [APK](https://drive.google.com/open?id=1FVN3OQN__ePxmFV6BV4RxnnF3HJkFHGf)
 3. Minimum Requirement: Android version 6.0
 
 ---
 
-### How to use the App: [YouTube](https://youtu.be/B7JP-jxKIqc)
+### How to use the App: See on [YouTube](https://youtu.be/B7JP-jxKIqc)
 
 #### What to do after installing?
 1. Keep running the app in the background (Ensure locking the app in recents)
@@ -25,15 +25,16 @@ That's all.
 
 ---
 
-### Sample Dataset: [Sample](https://drive.google.com/open?id=1qH5Vjf7RVU32I--15J5YRIYKIq8STcvs)
+### Sample Dataset: [Download](https://drive.google.com/open?id=1qH5Vjf7RVU32I--15J5YRIYKIq8STcvs)
 
 #### Dataset Description: 
 1. App Usages 
 2. Accelerometer, Gyroscope, Magnetometer 
-4. Call and SMS Logs (Encrypted)
-5. Ambient Light
-6. GPS Locations
-7. ScreenOffOn8. Questionnaires
+3. Call and SMS Logs (Encrypted)
+4. Ambient Light
+5. GPS Locations
+6. ScreenOffOn
+7. Questionnaires
 
 ---
 ### Screenshot: [View](https://lh4.googleusercontent.com/383fi99OdecLbS8rnDwWMCFvKAqf7xX77mjYwys60Ks5jbgLDzzoQfVSjWE2QXXYITYAOrG3vYL7ioZm-2vRwGnJ1ctjgs7_n6_F_Bbcs3kdEQpX6XnQ_GJoCidq=w4000)
