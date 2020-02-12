@@ -1,29 +1,38 @@
 ---
 layout: default
 is_contact: true
----
-
-* Email: [abhisekchowdhury9@gmail.com](mailto:abhisekchowdhury9@gmail.com)
-* Alt-Email: [abhisek.chowdhury@iitkgp.ac.in](mailto:abhisek.chowdhury@iitkgp.ac.in) 
-* Mobile: [+91-9434229961](tel:+91-9434229961) , [+91-9046109298](tel:+91-9434229961)
 
 ---
 
-## Mailing Address
+# About Life@IITKGP Android App
 
-> NDLI Lab
->
-> Central Library (2nd Floor , Annex Building) 
->
-> IIT Kharagpur
+## We have developed an android app "LIFE@IITKGP" to collect behavioral information.
+
+1. Download APP: [APK](https://drive.google.com/open?id=1FVN3OQN__ePxmFV6BV4RxnnF3HJkFHGf)
+2. Minimum Requirement: Android version 6.0
 
 ---
 
-## Social
+## How to use the App: [YouTube](https://youtu.be/B7JP-jxKIqc)
 
-1. [Facebook](https://www.facebook.com/yuviabhi)
-2. [Twitter](https://www/twitter.com/Im_Yuviabhi)
-3. [Google+](https://plus.google.com/u/0/+AbhisekChowdhury)
-4. [Github](https://github.com/yuviabhi)
-5. [LinkedIn](#)
-6. [Web HD](https://yuviabhi.github.io)
+### What to do after installing?
+1. Keep running the app in the background (Ensure locking the app in recents)
+2. Fill surveys which will be asked through notifications
+3. Sync the data from time to time (eg. once a day).
+
+That's all.
+
+---
+
+## Sample Dataset: [Sample](https://drive.google.com/open?id=1qH5Vjf7RVU32I--15J5YRIYKIq8STcvs)
+
+### Dataset Description: 
+1. App Usages 
+2. Accelerometer, Gyroscope, Magnetometer 
+4. Call and SMS Logs (Encrypted)
+5. Ambient Light
+6. GPS Locations
+7. ScreenOffOn8. Questionnaires
+
+---
+## Screenshot: [View](https://lh4.googleusercontent.com/383fi99OdecLbS8rnDwWMCFvKAqf7xX77mjYwys60Ks5jbgLDzzoQfVSjWE2QXXYITYAOrG3vYL7ioZm-2vRwGnJ1ctjgs7_n6_F_Bbcs3kdEQpX6XnQ_GJoCidq=w4000)
