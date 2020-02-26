@@ -38,3 +38,4 @@ That's all.
 
 ---
 ### Screenshot: [View](https://lh4.googleusercontent.com/383fi99OdecLbS8rnDwWMCFvKAqf7xX77mjYwys60Ks5jbgLDzzoQfVSjWE2QXXYITYAOrG3vYL7ioZm-2vRwGnJ1ctjgs7_n6_F_Bbcs3kdEQpX6XnQ_GJoCidq=w4000)
+<img class="screenshot-picture" src="https://lh4.googleusercontent.com/383fi99OdecLbS8rnDwWMCFvKAqf7xX77mjYwys60Ks5jbgLDzzoQfVSjWE2QXXYITYAOrG3vYL7ioZm-2vRwGnJ1ctjgs7_n6_F_Bbcs3kdEQpX6XnQ_GJoCidq=w4000" height="500" style="float:center; margin-right:30px;">
