@@ -8,7 +8,7 @@ is_contact: true
 
 ### We have developed an android app "LIFE@IITKGP" to collect behavioral information.
 
-1. Concent Form: [Fill up](https://forms.gle/cPj8ecVk5rVjvb4SA)
+1. Consent Form: [Fill up](https://forms.gle/cPj8ecVk5rVjvb4SA)
 2. Download APP: [APK](https://drive.google.com/open?id=1FVN3OQN__ePxmFV6BV4RxnnF3HJkFHGf)
 3. Minimum Requirement: Android version 6.0
 
@@ -30,7 +30,7 @@ That's all.
 #### Dataset Description: 
 1. App Usages 
 2. Accelerometer, Gyroscope, Magnetometer 
-3. Call and SMS Logs (Encrypted)
+3. Call and SMS Logs (No contents & one-way Encrypted)
 4. Ambient Light
 5. GPS Locations
 6. ScreenOffOn
