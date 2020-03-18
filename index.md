@@ -20,7 +20,7 @@ I also work as a Project Officer (IT) at National Digital Library (NDL) , IIT Kh
 
 ## Current Research Interest
 ---
-Currently I am interested in the field of **'Healthcare Analytics'** by exploring the area of Smartphone Sensor based Human Behavioral Modeling for betterment of lifestyle.
+Currently I am working in the field of **'Healthcare Analytics'** by exploring Digital sensing technology based Human Behavioral Analysis for improvement of lifestyle.
 
 <br /><br />
 
@@ -28,7 +28,7 @@ Currently I am interested in the field of **'Healthcare Analytics'** by explorin
 
 ---
 
-I worked in the field of **'Disaster Management specifically Flood using Social Media'** where analyzing the raw tweets was an important objective for classification of real-world flood and non-flood tweets using machine learning classifiers and also location extraction from twitter text using NLP and Information retrieval tools was a real challenge since most of the tweets lacked the geo-tags in India. And we finally developed a novel probabilistic unsupervised model with Restricted Boltzmann Machines (RBMs) for identification of flood affected regions in India (State of Bihar as a case study) in real-time with the help of auxiliary data sets (eg. Satellite data, rainfall, water-bodies etc).
+I worked in the field of **'Disaster Management specifically Flood using Social Media'** where analyzing the raw tweets was an important objective for identification of real-world flood and non-flood cases using various machine learning classifiers and also location extraction from twitter text using NLP techniches was a real challenge since most of the tweets lacked the geo-tags in Indian context. Furthermore, we developed a novel probabilistic unsupervised model with Restricted Boltzmann Machines (RBMs) for identification of potential flood vulnerable (affected) regions in India (State of Bihar as a case study) in real-time with the help of auxiliary data sets (eg. Satellite data, rainfall and water-bodies).
 
 
 
@@ -58,9 +58,9 @@ Secondary (Madhyamik) Examination (10th Std.)<br/>Board W.B.B.S.E.<br />
 
 | Year | Awards          | Description                                                  |
 | ---- | --------------- | ------------------------------------------------------------ |
-| 2019 | **UGC NET**     | Qualified **UGC NET 2019 (June)** exam in Computer Science for JRF and Assistant Professorship. |
-| 2018 | **UGC NET**     | Qualified **UGC NET 2018 (December)** exam in Computer Science for Assistant Professorship. |
-| 2018 | **UGC NET**     | Qualified **UGC NET 2018 (July)** exam in Computer Science for Assistant Professorship. |
+| 2019 | **JRF**         | Qualified **UGC NET 2019 (June)** exam in Computer Science for JRF and Assistant Professorship. |
+| 2018 | **NET**         | Qualified **UGC NET 2018 (December)** exam in Computer Science for Assistant Professorship. |
+| 2018 | **NET**         | Qualified **UGC NET 2018 (July)** exam in Computer Science for Assistant Professorship. |
 | 2018 | **GATE**        | Qualified **GATE 2018** exam in CS with score 465 and AIR 5444. |
 | 2017 | **WB SET**      | Qualified **West Bengal SET 2017** exam securing 69.7 % marks. |
 | 2016 | **IBM Day**     | Member of the Mobilitics group ranking 3rd on **IBM Day 2016** competition in Dept. of Computer Science & Engineering, IIT Kharagpur, India. |
@@ -100,16 +100,16 @@ Software Developer, Indian Institute of Technology Kharagpur, India.<br />Projec
 ---
 
 #### Languages
-C, C++, JAVA, Python, PHP, Prolog, Unix Shell, 8085 µP
+C, C++, JAVA, Python, PHP, Unix Shell, Prolog, 8085 µP
 
 #### Databases 
-Oracle, PostgreSQL, MySQL, MS SQL Server, SQLite DB, PostGIS
+Oracle, PostgreSQL, MySQL, MS SQL Server, SQLite DB, PostGIS, Mongo DB
 
 #### Development
-JAVA Spring, Android, ASP.NET, PHP, JSP, JAVA Swing, JAFA FX, Bootstrap, JavaScript, AJAX, JQuery, Angular JS, REST API, JSON, XML
+Android (Native), JAVA Spring, ASP.NET, JSP, JAVA Swing, JAFA FX, JQuery, Angular JS
 
 #### Tools and IDEs
-Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apache Tomcat, Git 
+Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apache Tomcat, Git, nginx
 
 
 
@@ -118,18 +118,27 @@ Android Studio, Eclipse, NetBeans, Visual Studio, Dreamweaver, IIS , XAMPP, Apac
 ---
 
 * Machine Learning 
-* Data Mining 
 * Natural Language Processing
 * Information Retrieval
+* Data Mining 
 * Big Data
 * Cloud Computing
-* Complex Network 
 
 
 
 ## Academic Projects 
 
 ---
+
+#### Aug 2019 – Nov 2019
+Developing Connections between various Robust Learning Techniques <br /> PhD, Scalable Data Mining Project
+[[ppt]](https://docs.google.com/presentation/d/1enek761JQCALC4-ybnwa9GIgqxZkv9D_s2byMioWyvE/edit#slide=id.p).  <br />Supervisor: Mr. Avirup Saha, PhD Scholar<br />Dept. of CSE, IIT Kharagpur
+
+
+#### Jan 2019 – Apr 2019
+Retrieval of Derivational Nouns in English using Graph Based Learning Algorithms. <br /> PhD, Information Retrieval Project
+[[ppt]](https://docs.google.com/presentation/d/12SAkCwLHkrb-X3dc9hohDAsxQRqoGHAYw3OoL4tHyyY/edit?ts=5cb4fa0f#slide=id.g57fd05ac1c_5_0).  <br />Supervisor: Mr. Amrith Krishna, PhD Scholar<br />Dept. of CSE, IIT Kharagpur
+
 
 #### Jan 2015 – May 2015
 Data Mining, RFID Technology and a Mobile Based Information System for Improvement of Safety & Security of School Trips. <br />M.Sc. Final Semester Project, Vidyasagar University, Midnapore, [[ppt]](https://goo.gl/3a3mN9). <br />Supervisor: Prof. Tanmoy Chakraborty,<br />Dept. of Computer Science, Vidyasagar University, West Bengal, India
@@ -194,6 +203,6 @@ Feedback System for IIT Kharagpur Website<br />Institute Information Cell, IIT K
   * rambabu@see.iitkgp.ac.in
 * Prof. Partha Pratim Das, Dept. of CSE, IIT Kharagpur
   * ppd@cse.iitkgp.ac.in
-* Mr. Arindam Dasgupta , PhD Scholar, ATDC, IIT Kharagpur 
+* Dr. Arindam Dasgupta , PhD, IIT Kharagpur 
   * adgkgp@gmail.com
 
