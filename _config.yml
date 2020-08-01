@@ -8,18 +8,20 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/yuviabhi"
-footer_text: "2018 &copy; Abhisek Chowdhury"
+footer_text: "2020 &copy; Abhisek Chowdhury"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Bio"
+ - name: "About Me"
    link: "/researcher/"
  - name: "Resume"
    link: "Abhisek_CV.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Works"
+   link: "works"
  - name: "Life@IITKGP"
    link: "lifeiitkgp"
