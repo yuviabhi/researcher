@@ -19,9 +19,8 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "Abhisek_CV.pdf"
+ - name: "Showcase"
+   link: "works"
  - name: "Contact"
    link: "contact"
- - name: "Works"
-   link: "works"
- - name: "Life@IITKGP"
-   link: "lifeiitkgp"
+ 
