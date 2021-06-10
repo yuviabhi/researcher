@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 ---
-<img class="profile-picture" src="ei_1622816384952-removebg-preview.png" height="1200px" style="float:left; margin-right:30px;">
+<img class="profile-picture" src="ei_1622816384952-removebg-preview.png" height="1000px" style="float:left; margin-right:30px;">
 
 <br /><br />
 
